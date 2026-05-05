@@ -1,0 +1,9 @@
+ {
+   "versionCode": 8,
+   "versionName": "1.0.5",
+   "minSupportedCode": 8,
+   "apkUrl": "https://github.com/MiskaWasTaken/NutriPeak-APK/releases/download/v1.0.5/NutriPeak-v1.0.5.apk",
+   "sha256": "<PUT_APK_SHA256_HERE>",
+   "releaseNotes": "Current production release.",
+   "publishedAt": "2026-05-05T07:26:00Z"
+ }
